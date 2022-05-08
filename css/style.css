@@ -1668,7 +1668,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     display: none;
   }
   #mobile-nav-toggle {
-    display: inline;
+    display: none;
   }
   body {
     margin-bottom: 70px;
