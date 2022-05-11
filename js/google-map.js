@@ -5,7 +5,7 @@ function init() {
     // Basic options for a simple Google Map
     // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
     // var myLatlng = new google.maps.LatLng(40.71751, -73.990922);
-    var myLatlng = new google.maps.LatLng(44.719607, 19.230182);
+    var myLatlng = new google.maps.LatLng(44.723163, 19.229082);
     // 39.399872
     // -8.224454
     
@@ -47,8 +47,8 @@ function init() {
     var marker = new google.maps.Marker({
         position: myLatlng,
         map: map,
-        title: 'Preradovićeva 85',
-        animation: google.maps.Animation.BOUNCE
+        title: 'Patkovača 102',
+        // animation: google.maps.Animation.BOUNCE
         // icon: 'images/loc.png'
     });
 

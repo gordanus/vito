@@ -5,7 +5,7 @@
   License: https://bootstrapmade.com/license/
 
 
-  Plava boja - #3333FF
+  Plava boja - #0093FF
   Alt plava boja - #0055FF
   Tamnija zlatna - #c39d63
   Pozadina - #4f5d64
@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #3333FF;
+  background: #0093FF;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -88,7 +88,7 @@ h1, h2, h3, h4, h5, h6 {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #f2f2f2;
-  border-top: 6px solid #3333FF;
+  border-top: 6px solid #0093FF;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -345,7 +345,7 @@ h1, h2, h3, h4, h5, h6 {
   transform-origin: bottom right;
   background: #fff;
   width: 4px;
-  height: 50px;
+  height: 30px;
   border-radius: 10px;
   transform: translate(-50%, -50%) rotateZ(-45deg);
 }
@@ -640,7 +640,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   display: block;
   width: 40px;
   height: 3px;
-  background: #3333FF;
+  background: #0093FF;
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -835,7 +835,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #services .box:hover .title a {
-  color: #3333FF;
+  color: #0093FF;
 }
 
 #services .description {
@@ -1384,7 +1384,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .contact-info a:hover {
-  color: #3333FF;
+  color: #0093FF;
 }
 
 #contact .contact-address, #contact .contact-phone, #contact .contact-email {
@@ -1489,7 +1489,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #333;
+  background: #0093FF;
   color: #eee;
   line-height: 1;
   padding: 8px 0;
@@ -1502,7 +1502,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #c39d63;
+  background: #006ebd;
   color: #fff;
 }
 
@@ -1666,7 +1666,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     font-size: 16px;
   }
   #nav-menu-container {
-    display: none;
+    display: none; /* inline*/
   }
   #mobile-nav-toggle {
     display: none;
