@@ -9,6 +9,7 @@
   Alt plava boja - #0055FF
   Tamnija zlatna - #c39d63
   Pozadina - #4f5d64
+  Svetlija pozadina - 
 */
 
 /*--------------------------------------------------------------
@@ -16,7 +17,7 @@
 --------------------------------------------------------------*/
 
 body {
-  background: #6b7d86;
+  background: #5b6a72;
   color: #666666;
   /* font-family: "Open Sans", sans-serif; */
   font-family: 'Bona Nova', serif;
@@ -633,7 +634,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   display: block;
   width: 120px;
   height: 1px;
-  background: #6b7d86;
+  background: #5b6a72;
   bottom: 1px;
   left: calc(50% - 60px);
 }
@@ -659,7 +660,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 
 .section-bg {
-  background: #6b7d86;
+  background: #5b6a72;
 }
 
 /* Featured Services Section
@@ -723,7 +724,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   right: 0;
   top: 0;
   bottom: 0;
-  background: #6b7d86;
+  background: #5b6a72;
   z-index: 9;
 }
 
@@ -806,7 +807,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 
 #services {
-  background: #6b7d86;
+  background: #5b6a72;
   background-size: cover;
   padding: 60px 0 40px 0;
   font-family: "Montserrat", sans-serif;
