@@ -16,7 +16,7 @@
 --------------------------------------------------------------*/
 
 body {
-  background: #5b6a72;
+  background: #4f5d64;
   color: #666666;
   font-family: 'Bona Nova', serif;
 }
@@ -632,7 +632,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   display: block;
   width: 120px;
   height: 1px;
-  background: #5b6a72;
+  background: #4f5d64;
   bottom: 1px;
   left: calc(50% - 60px);
 }
@@ -658,7 +658,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 
 .section-bg {
-  background: #5b6a72;
+  background: #4f5d64;
 }
 
 /* Featured Services Section
@@ -722,7 +722,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   right: 0;
   top: 0;
   bottom: 0;
-  background: #5b6a72;
+  background: #4f5d64;
   z-index: 9;
 }
 
@@ -805,7 +805,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 
 #services {
-  background: #5b6a72;
+  background: #4f5d64;
   background-size: cover;
   padding: 60px 0 40px 0;
   font-family: "Montserrat", sans-serif;
