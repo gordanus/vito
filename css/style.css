@@ -16,7 +16,7 @@
 --------------------------------------------------------------*/
 
 body {
-  background: #5d6d75;
+  background: #6b7d86;
   color: #666666;
   /* font-family: "Open Sans", sans-serif; */
   font-family: 'Bona Nova', serif;
@@ -633,7 +633,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   display: block;
   width: 120px;
   height: 1px;
-  background: #4f5d64;
+  background: #6b7d86;
   bottom: 1px;
   left: calc(50% - 60px);
 }
@@ -659,7 +659,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 
 .section-bg {
-  background: #4f5d64;
+  background: #6b7d86;
 }
 
 /* Featured Services Section
@@ -723,7 +723,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   right: 0;
   top: 0;
   bottom: 0;
-  background: #4f5d64;
+  background: #6b7d86;
   z-index: 9;
 }
 
@@ -806,7 +806,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 
 #services {
-  background: #4f5d64;
+  background: #6b7d86;
   background-size: cover;
   padding: 60px 0 40px 0;
   font-family: "Montserrat", sans-serif;
