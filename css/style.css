@@ -7,9 +7,8 @@
 
   Plava boja - #0093FF
   Alt plava boja - #0055FF
-  Tamnija zlatna - #c39d63
   Pozadina - #4f5d64
-  Svetlija pozadina - 
+  Svetlija pozadina - #5b6a72
 */
 
 /*--------------------------------------------------------------
@@ -19,7 +18,6 @@
 body {
   background: #5b6a72;
   color: #666666;
-  /* font-family: "Open Sans", sans-serif; */
   font-family: 'Bona Nova', serif;
 }
 
